@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grankraken
+- 👋 Hi, I’m @max.jsx 
 - 👀 I’m interested in software development and nerd stuff in general 
 - 🌱 I’m currently learning SQL, Java, Javascript
 - 💞️ I’m looking to collaborate on nothing, just learning
